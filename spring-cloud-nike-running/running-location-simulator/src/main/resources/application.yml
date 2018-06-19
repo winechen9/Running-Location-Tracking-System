@@ -1,0 +1,12 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: running-location-simulator
+
+com:
+  winechen:
+    running:
+      location:
+        distribution: http://localhost:9006
+
